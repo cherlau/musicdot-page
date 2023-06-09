@@ -10,7 +10,7 @@
 
 ## 💻 Sobre
 
-Implementação de uma tela do MusicDot, uma plataforma online para aprendizado de música, utilizando HTML e CSS puro, seguindo a apostila "Desenvolvimento Web com HTML, CSS e JavaScript" da <a href="https://www.caelum.com.br/" target="_blank">Caelum<a> em parceria com a <a href="https://www.alura.com.br/" target="_blank">Alura</a>.
+Implementação de uma tela do MusicDot, uma plataforma online para aprendizado de música, utilizando HTML e CSS puro, seguindo a apostila "Desenvolvimento Web com HTML, CSS e JavaScript" da <a href="https://www.caelum.com.br/" target="_blank">Caelum<a> em parceria com a <a href="https://www.alura.com.br/" target="_blank">Alura</a>. 
 
 <h3 align="center">
 ⚙️ Tecnologias utilizadas
